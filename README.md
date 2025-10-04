@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/0011-container-with-most-water) |
 | [0407-trapping-rain-water-ii](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/0407-trapping-rain-water-ii) |
 ## Breadth-First Search
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/0407-trapping-rain-water-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
