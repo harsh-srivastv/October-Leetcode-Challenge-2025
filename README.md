@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
