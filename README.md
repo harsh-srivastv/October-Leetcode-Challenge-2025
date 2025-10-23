@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1642-water-bottles) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3336-water-bottles-ii](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
