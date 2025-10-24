@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1612-avoid-flood-in-the-city) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
