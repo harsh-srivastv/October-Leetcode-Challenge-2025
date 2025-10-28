@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2169-simple-bank-system) |
 | [3336-water-bottles-ii](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3336-water-bottles-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
