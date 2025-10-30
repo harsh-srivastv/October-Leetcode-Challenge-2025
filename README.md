@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/0794-swim-in-rising-water) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/0011-container-with-most-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Depth-First Search
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -178,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/2169-simple-bank-system) |
+## Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harsh-srivastv/October-Leetcode-Challenge-2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
